@@ -1,0 +1,215 @@
+.red{
+    position: relative;
+    float: right;
+   bottom: 440px;
+}
+.blue{
+    position: relative;
+    bottom: 400px;
+    right: -30px;
+}
+.blue h2{
+    color: white;
+}
+.blue p{
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.orange{
+    color: orange;
+   font-size: 40px;
+}
+span{
+    text-decoration: underline;
+}
+.blue .but{
+    background-color: white;
+    color: orangered;
+    text-decoration: none;
+    border: 2px solid;
+    border-radius: 5px;
+   padding: 10px 25px;
+   
+}
+.blue .bot{
+    background-color:rgb(31, 82, 38) ;
+    color: orangered;
+    text-decoration: none;
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 10px 25px;
+}
+.pink{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid;
+    position: relative;
+    right:-190px;
+    top: -160px;
+  box-sizing: border-box;
+  box-shadow: 5px 8px 18px #888888;
+  padding: 15px;
+}
+.purple{
+    position: relative;
+    right: -30px;
+}
+.purple h2{
+font-size: 40px;
+}
+.purple p{
+    padding-top: 20px;
+    font-size: 20px;
+}
+.purple ul{
+    display: inline-block;
+    padding-right: 40px;
+    margin-left: 15px;
+    padding-top: 20px;
+    list-style-image: url();
+}
+.purple ul li{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.purp{
+    position: relative;
+    right: -700px;
+    bottom: 310px;
+    height: 30%;
+    width: 40%;
+}
+.brown{
+    text-align: center;
+    margin-top: -200px;
+    padding-bottom: 50px;
+
+}
+.gray{
+    
+border: 1px solid #ccc;
+ box-shadow: 5px 8px 18px #888888;
+ box-sizing: border-box;
+   
+}
+.gray img{
+    width: 100px;
+    height:100px;
+    position: relative;
+   right: -100px;
+   padding-bottom: 25px;
+ 
+}
+.ver{
+    padding: 15px;
+    text-align: center;
+}
+.ash{
+    padding: 0 6px;
+    float: left;
+    width: 24.5%%;
+    clear: right;
+   
+}
+.butn{
+    background-color:orangered ;
+    color:white;
+    text-decoration: none;
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 10px 25px;
+   position: relative;
+   bottom: -40px;
+   right: -600px;
+}
+.black{
+    text-align: center;
+    padding-top: 100px;
+   
+}
+.black h3{
+    font-size: 40px;
+    
+}
+.black h4{
+    font-size:20px ;
+    padding-top: 15px;
+}
+.black img{
+  margin-top: -100px;
+    height: 70%;
+    width: 70%;
+}
+.blacke{
+    text-align: center;
+    text-transform: capitalize;
+    padding-bottom: 15px;
+}
+.milk img{
+   
+    position: relative;
+    
+   
+}
+.very{
+    padding: 15px;
+    text-align: left;
+}
+.cream{
+    padding:;
+    float: left;
+    width: 50%;
+    clear: right;
+   
+}
+.milk{
+    box-sizing: border-box;
+    position: relative;
+    right: -100px;
+   
+    
+}
+.milka img{
+   
+    position: relative;
+   
+}
+.verya{
+    padding: 15px;
+    text-align: left;
+}
+.creama{
+    padding:;
+    float: left;
+    width: 50%;
+    clear: right;
+   
+}
+.milka{
+    border-radius: 7px;
+   
+    
+}
+.butne{
+    background-color:orangered ;
+    color:white;
+    text-decoration: none;
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 10px 25px;
+    position: relative;
+    bottom: -20px;
+     
+}
+.footer{
+  position: relative;
+  top: 80px;
+  display: flex;
+}
+
+
+
+
+/**    About page styling**/
